@@ -6,5 +6,5 @@ export default function Pokedex() {
     <SafeAreaView>
       <Text>Pokedex</Text>
     </SafeAreaView>
-  )
+  );
 }
